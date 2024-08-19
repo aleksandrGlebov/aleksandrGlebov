@@ -10,6 +10,7 @@ Author on Habr. Popular article - https://habr.com/ru/articles/737672/
 
 Skills: Python / SQL / Integration & API / Blockchain
 
+- 📫 How to reach me: aleks.a.glebov@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aleksandrGlebov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aleksandr-glebov/)  
