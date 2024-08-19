@@ -12,7 +12,7 @@ Skills: Python / SQL / Integration & API / Blockchain
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aleksandrGlebov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aleksandr-glebov//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aleksandrGlebov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aleksandr-glebov/)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aleksandrGlebov)](https://github.com/ryo-ma/github-profile-trophy)
 
